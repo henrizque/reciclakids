@@ -8,7 +8,7 @@
 
 /* FUNDO */
 body {
-  background: url("background.png") no-repeat center bottom;
+  background: url("../../game_assets/background/background.png") no-repeat center bottom;
   background-size: cover;
   height: 100vh;
   display: flex;
